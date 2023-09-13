@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/4WVWCQ9/annie-spratt-OWq8w3-BYMFY-unsplash.jpg",
+      "title": "Lorem Ipsum",
+      "author": "John Doe",
+      "author_image": "https://i.ibb.co/nsJL1xg/jakayla-toney-i-Rw4x-Qhg-Wbo-unsplash.jpg",
+      "posted_date": "2023-09-12",
+      "reading_time": 10,
+      "hashtags": ["fiction", "Lorem", "writing"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/4WVWCQ9/annie-spratt-OWq8w3-BYMFY-unsplash.jpg",
+      "title": "The Adventures of Fantasy",
+      "author": "Jane Smith",
+      "author_image": "https://i.ibb.co/nsJL1xg/jakayla-toney-i-Rw4x-Qhg-Wbo-unsplash.jpg",
+      "posted_date": "2023-09-11",
+      "reading_time": 15,
+      "hashtags": ["fantasy", "adventure", "book"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/4WVWCQ9/annie-spratt-OWq8w3-BYMFY-unsplash.jpg",
+      "title": "Mystery Unveiled",
+      "author": "David Johnson",
+      "author_image": "https://i.ibb.co/nsJL1xg/jakayla-toney-i-Rw4x-Qhg-Wbo-unsplash.jpg",
+      "posted_date": "2023-09-10",
+      "reading_time": 12,
+      "hashtags": ["mystery", "suspense", "detective"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/p29TXZq/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+      "title": "Science in Space",
+      "author": "Alice Williams",
+      "author_image": "https://i.ibb.co/nsJL1xg/jakayla-toney-i-Rw4x-Qhg-Wbo-unsplash.jpg",
+      "posted_date": "2023-09-09",
+      "reading_time": 8,
+      "hashtags": ["science", "space", "exploration"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/p29TXZq/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+      "title": "Cooking Delights",
+      "author": "Michael Brown",
+      "author_image": "https://i.ibb.co/nsJL1xg/jakayla-toney-i-Rw4x-Qhg-Wbo-unsplash.jpg",
+      "posted_date": "2023-09-08",
+      "reading_time": 20,
+      "hashtags": ["cooking", "recipes", "food"]
+    }
+  ]
+
